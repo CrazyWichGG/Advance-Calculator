@@ -440,7 +440,7 @@ def checkCustomWindow():
 
 #menu def
 def about():
-    showinfo("About","Advance Calculator (v. beta 0.0.1)\nCreator: CrazyWichGG")
+    showinfo("About","Advance Calculator (v. 1.0.0)\nCreator: CrazyWichGG")
 
 #menu item
 #option
