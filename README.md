@@ -4,7 +4,7 @@ This calculator is from final school project as you can see there is a school ve
 I create this repository because I want to keep doing this project as much as I can.
 
 ## 📱 Preview
-
+_No Preview Yet_
 
 ## 📥 Download
 
