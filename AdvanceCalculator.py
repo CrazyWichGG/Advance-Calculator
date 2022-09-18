@@ -1,3 +1,8 @@
+# Normal Version 0.0.1
+
+# Created by CrazyWichGG
+# Other people in a group will not doing this project anymore.
+
 try: #python 2
     from Tkinter import *
     from Tkinter.messagebox import *
