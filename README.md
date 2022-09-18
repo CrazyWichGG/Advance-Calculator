@@ -8,8 +8,9 @@ I create this repository because I want to keep doing this project as much as I 
 
 ## 📥 Download
 
-Latest Version
+* Latest Version
 
-Other Version
+* Other Version
 
-Ps: School Version can be download in main page.
+
+_Ps: School Version can be download in main page._
