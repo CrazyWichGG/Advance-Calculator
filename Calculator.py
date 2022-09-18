@@ -435,7 +435,7 @@ def checkCustomWindow():
 
 #menu def
 def about():
-    showinfo("About","Advance Calculator (v. beta 0.0.1)\nCreator: CrazyWichGG")
+    showinfo("About","จัดทำโดย\nนายกันตวิชญ์ ฤทธาเกริกไกล ม.4/1 เลขที่ 1\nนายวุฒิภัทร กันชนะ ม.4/1 เลขที่ 3\nนายภูมิรพี ยาวิชัย ม.4/1 เลขที่ 6")
 
 #menu item
 #option
