@@ -8,9 +8,9 @@ I create this repository because I want to keep doing this project as much as I 
 
 ## 📥 Download
 
-* Latest Version
+* [Latest Version](https://github.com/CrazyWichGG/Advance-Calculator/releases/tag/v1.0.0)
 
-* Other Version
+* [Other Version](https://github.com/CrazyWichGG/Advance-Calculator/releases)
 
 
 _Ps: School Version can be download in main page._
