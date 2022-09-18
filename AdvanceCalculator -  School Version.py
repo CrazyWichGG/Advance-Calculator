@@ -1,3 +1,11 @@
+# School Version
+
+# จัดทำโดย
+# นายกันตวิชญ์ ฤทธาเกริกไกล ม.4/1 เลขที่ 1
+# นายวุฒิภัทร กันชนะ ม.4/1 เลขที่ 3
+# นายภูมิรพี ยาวิชัย ม.4/1 เลขที่ 6
+
+
 try: #python 2
     from Tkinter import *
     from Tkinter.messagebox import *
