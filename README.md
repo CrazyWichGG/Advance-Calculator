@@ -21,7 +21,7 @@ I created this repository because I wanted to keep doing this project as much as
 
 ## 📥 Download
 
-* [Latest Version](https://github.com/CrazyWichGG/Advance-Calculator/releases/tag/v1.0.2)
+* [Latest Version](https://github.com/CrazyWichGG/Advance-Calculator/releases/tag/v1.0.3)
 
 * [Other Version](https://github.com/CrazyWichGG/Advance-Calculator/releases)
 
